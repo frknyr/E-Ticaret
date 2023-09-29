@@ -6,7 +6,7 @@
 - Projeyi geliştirme aşamasında katmanlı mimariler kullandım. Oluşturduğum business, dataAccess, entities, core ve webApi paketleri ile kodun okunurluğunu kolaylaştırmak ve projenin değişime karşı göstermiş olduğu direnci en aza indirgemeye çalıştım.
 
 
-- Paketler veya sınıflar arasındaki iletişimi interfaceler ile sağlayarak projenin değişime karşı direncini azaltmaya çalıştım.
+- Paketler veya sınıflar arasındaki iletişimi interfaceler ile sağlayarak projenin değişime karşı göstermiş olduğu direnci ve bağımlılıkları en aza indirgemeye çalıştım.
 
 
 - Veritabanı nesneleri arasındaki ilişkiyi çeşitli anotasyonlar (@ManyToOne vb.) kullanarak sağladım
