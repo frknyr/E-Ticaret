@@ -2,7 +2,7 @@
 
 - Spring framework ile geliştirmiş olduğum e-ticaret altyapısı
 
-#### Projeyi Geliştirirken Kullandığım Yazılım Prensibleri
+#### Projeyi Geliştirirken Kullandığım Yazılım Prensipleri
 - Projeyi geliştirme aşamasında katmanlı mimariler kullandım. Oluşturduğum business, dataAccess, entities, core ve webApi paketleri ile kodun okunurluğunu kolaylaştırmak ve projenin değişime karşı göstermiş olduğu direnci en aza indirgemeye çalıştım.
 
 
